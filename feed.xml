@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<itunes:author>
+			<![CDATA[NTEF]]>
+		</itunes:author>
+		<title>
+			<![CDATA[No todo es follar]]>
+		</title>
+		<itunes:owner>
+			<itunes:email> notodoesfollar@gmail.com </itunes:email>
+		</itunes:owner>
+		<link>https://www.ivoox.com/podcast-no-todo-es-follar_sq_f11069693_1.html</link>
+		<description>
+			<![CDATA[Aquesta és una descripció del programa. Aquí es diu què és el què fem i què pots esperar a l'escoltar aquest programa. També es fa alguna petita broma ja que intentem fer humor sempre que podem o en sabem. Ara ens posem més seriosos perquè realment ens fa il·lusió fer un podcast i volem que surti la cosa bé i no se'ns titlli (s'escriu així titlli? sembla extrany amb tantes "i" oi?) de superficials. Acabem amb alguna conclusió final a un terme mig entre canallita i intelectual.]]>
+		</description>
+		<language>ca</language>
+		<generator>iVoox</generator>
+		<image>
+			<url>https://static-2.ivoox.com/canales/3/7/2/4/8691602144273_XXL.jpg?ts=1602144786</url>
+			<title>
+				<![CDATA[No todo es follar]]>
+			</title>
+			<link>https://www.ivoox.com/podcast-no-todo-es-follar_sq_f11069693_1.html</link>
+		</image>
+		<atom:link href="https://www.ivoox.com/no-todo-es-follar_fg_f11069693_filtro_1.xml" rel="self" type="application/rss+xml" />
+		<itunes:image href="https://static-2.ivoox.com/canales/3/7/2/4/8691602144273_XXL.jpg?ts=1602144786" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Comedy" />
+		<item>
+			<title>
+				<![CDATA[Programa 5]]>
+			</title>
+			<link>https://www.ivoox.com/programa-5-audios-mp3_rf_62275855_1.html</link>
+			<enclosure url="https://www.ivoox.com/programa-5_mf_62275855_feed_1.mp3" type="audio/mpeg"  length="23430600"/>
+			<description>
+				<![CDATA[En aquest episodi podreu acompanyar-nos a fer el vermut i xerrar de les nostres qualitats, defectes i noves masculinitats. També escoltarem un temica una mica escurçat per allò del copyright, ens assabentem de com li va el business a Bernat Hidalgo amb Bdelleure i llegim una entrevista curiosa a Paulo Coelho!]]>
+			</description>
+			<pubDate>Sun, 13 Dec 2020 19:36:07 +0100</pubDate>
+			<itunes:duration>48:48</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/62275855</guid>
+			<itunes:image href="https://static-2.ivoox.com/canales/3/7/2/4/8691602144273_XXL.jpg?ts=1602144786"/>
+		</item>
+	</channel>
+</rss>
