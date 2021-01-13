@@ -32,6 +32,21 @@
 		<itunes:category text="Comedy" />
 		<item>
 			<title>
+				<![CDATA[Programa 6]]>
+			</title>
+			<link>https://www.ivoox.com/programa-6-audios-mp3_rf_63879078_1.html</link>
+			<enclosure url="https://www.ivoox.com/programa-6_md_63879078_wp_1.mp3" type="audio/mpeg"  length="32883774"/>
+			<description>
+				<![CDATA[En aquest episodi intercanviem el Gerard per l'Oriol. Parlem de l'illa de Sentinel del Nord i què us podeu trobar si voleu fer-hi turisme. Coneixerem com li va el business a l'empresa de mitjons Klancetines i finalment reflexionarem tots plegats amb una sessió intensa d'anàlisi personal.]]>
+			</description>
+			<pubDate>Wed, 13 Jan 2021 17:35:07 +0100</pubDate>
+			<itunes:duration>01:08:30</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/63879078</guid>
+			<itunes:image href="https://static-2.ivoox.com/canales/3/7/2/4/8691602144273_XXL.jpg?ts=1602144786"/>
+		</item>
+		<item>
+			<title>
 				<![CDATA[Programa 5]]>
 			</title>
 			<link>https://www.ivoox.com/programa-5-audios-mp3_rf_62275855_1.html</link>
