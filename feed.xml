@@ -60,5 +60,20 @@
 			<guid>https://www.ivoox.com/62275855</guid>
 			<itunes:image href="https://static-1.ivoox.com/canales/4/1/3/0/2921610640314_XXL.jpg?ts=1610640373"/>
 		</item>
+		<item>
+			<title>
+				<![CDATA[Programa 4]]>
+			</title>
+			<link>https://www.ivoox.com/programa-4-audios-mp3_rf_64662071_1.html</link>
+			<enclosure url="https://www.ivoox.com/programa-4_mf_64662071_feed_1.mp3" type="audio/mpeg" length="28337248"/>
+			<description>
+				<![CDATA[ En aquest episodi podrem coneixer una mica millor els integrants del podcast. A continuació comentarem una noticia d'una revista local amb reminiscències del passat que ens porta el Marc. Podrem escoltar un tema que ens porta el punxa-discos Santiago i trucarem al nostre company Oriol. Finalment el Gerard ens explicarà coses de caire rural de la seva vida i feina. ]]>
+			</description>
+			<pubDate>Sat, 30 Jan 2021 19:06:25 +0100</pubDate>
+			<itunes:duration>59:02</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/64662071</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/4/1/3/0/2921610640314_XXL.jpg?ts=1610640373"/>
+		</item>
 	</channel>
 </rss>
