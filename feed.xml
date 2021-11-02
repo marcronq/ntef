@@ -19,7 +19,7 @@
 		<language>ca</language>
 		<generator>iVoox</generator>
 		<image>
-			<url>https://static-1.ivoox.com/canales/4/1/3/0/2921610640314_XXL.jpg?ts=1610640373</url>
+			<url>https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815</url>
 			<title>
 				<![CDATA[No todo es follar]]>
 			</title>
@@ -30,6 +30,22 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:category text="Comedy" />
+		<item>
+			<title>2x01 - Les barbacoes</title>
+			<link>
+				https://www.ivoox.com/2x01-les-barbacoes-audios-mp3_rf_77684623_1.html
+			</link>
+			<enclosure url="https://www.ivoox.com/2x01-les-barbacoes_mf_77684623_feed_1.mp3" type="audio/mpeg" length="26062673"/>
+			<description>
+			Estrenem temporada parlant del tema que Catalunya necessita: Les barbacoes. L'equip al complet de NTEF s'ha desplaçat a Eivissa per poder seguir creant contingut de qualitat i aquest és el resultat.
+			</description>
+			<pubDate>Tue, 02 Nov 2021 21:56:50 +0100</pubDate>
+			<itunes:duration>54:17</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/77684623</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+		</item>
+
 		<item>
 			<title>
 				Programa especial amb El Pony Pisador
