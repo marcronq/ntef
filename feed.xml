@@ -31,6 +31,22 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:category text="Comedy" />
 		<item>
+			<title>2x02 - La son</title>
+			<link>
+				https://www.ivoox.com/2x02-la-son-audios-mp3_rf_78747121_1.html
+			</link>
+			<enclosure url="https://www.ivoox.com/2x02-la-son_mf_78747121_feed_1.mp3" type="audio/mpeg" length="22521102"/>
+			<description>
+			En aquest segon programa parlem de el son tot referint-nos a la son, així d'intel·lectuals som. Un viatje pel món oníric regat per herbes eivissenques on descobrirem com en Gerard és tot un expert en el tema i ens fa una masterclass sobre somnis lúcids. Esperem que no un dormiu!
+			</description>
+			<pubDate>Wed, 24 Nov 2021 13:59:43 +0100</pubDate>
+			<itunes:duration>46:55</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/78747121</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+		</item>
+
+		<item>
 			<title>2x01 - Les barbacoes</title>
 			<link>
 				https://www.ivoox.com/2x01-les-barbacoes-audios-mp3_rf_77684623_1.html
