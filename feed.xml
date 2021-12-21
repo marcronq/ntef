@@ -31,6 +31,21 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:category text="Comedy" />
 		<item>
+			<title>2x03 - Una mujer!</title>
+			<link>
+				https://www.ivoox.com/2x03-mujer-audios-mp3_rf_79758397_1.html
+			</link>
+			<enclosure url="https://www.ivoox.com/2x03-mujer_mf_79758397_feed_1.mp3" type="audio/mpeg" length="21137866"/>
+			<description>
+				En aquest tercer episodi notareu que ens estem profesionalitzant. Una periodista ens visita i ens fot canya bien fresquita. Un concurs de criptomonedes, els respalls de dents i Bulgaria són els temes escollits en aquesta ocasió. Per primera vegada el públic s'entrega de manera molt dura durant la gravació. GAS
+			</description>
+			<pubDate>Fri, 17 Dec 2021 15:51:25 +0100</pubDate>
+			<itunes:duration>44:02</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/79758397</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+		</item>
+		<item>
 			<title>2x02 - La son</title>
 			<link>
 				https://www.ivoox.com/2x02-la-son-audios-mp3_rf_78747121_1.html
