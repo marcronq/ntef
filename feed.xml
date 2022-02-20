@@ -31,6 +31,21 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:category text="Comedy" />
 		<item>
+			<title>2x05 - Red flags, gamers i el grupo</title>
+			<link>
+				https://www.ivoox.com/2x05-red-flags-gamers-i-grupo-audios-mp3_rf_82480281_1.html
+			</link>
+			<enclosure url="https://www.ivoox.com/2x05-red-flags-gamers-i-grupo_mf_82480281_feed_1.mp3" type="audio/mpeg" length="22893572"/>
+			<description>
+				En aquest fantàstic episodi podeu deleitar-vos amb una llista tendenciosa de red flags que ens porta el Marc, el Gerard ens mostra la seva vivència titulada 21 dias siendo gamer. Finalment els analistes ens porten periodisme de qualitat en forma d'investigació sobre '"El grupo".
+			</description>
+			<pubDate>Sun, 20 Feb 2022 10:05:56 +0100</pubDate>
+			<itunes:duration>47:41</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/82480281</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+		</item>
+		<item>
 			<title>2x04 - La Sagrada Familia i Guinea Ecuatorial</title>
 			<link>
 				https://www.ivoox.com/2x04-la-sagrada-familia-i-guinea-ecuatorial-audios-mp3_rf_80516141_1.html
@@ -111,7 +126,7 @@
 		</item>
 		<item>
 			<title>
-				<![CDATA[Programa 6]]>
+				<![CDATA[1x03 - Anàlisi]]>
 			</title>
 			<link>https://www.ivoox.com/programa-6-audios-mp3_rf_63879078_1.html</link>
 			<enclosure url="https://www.ivoox.com/programa-6_md_63879078_wp_1.mp3" type="audio/mpeg"  length="32883774"/>
@@ -126,7 +141,7 @@
 		</item>
 		<item>
 			<title>
-				<![CDATA[Programa 5]]>
+				<![CDATA[1x02 - Un vermut]]>
 			</title>
 			<link>https://www.ivoox.com/programa-5-audios-mp3_rf_62275855_1.html</link>
 			<enclosure url="https://www.ivoox.com/programa-5_mf_62275855_feed_1.mp3" type="audio/mpeg"  length="23430600"/>
@@ -141,7 +156,7 @@
 		</item>
 		<item>
 			<title>
-				<![CDATA[Programa 4]]>
+				<![CDATA[1x01 - Comencem]]>
 			</title>
 			<link>https://www.ivoox.com/programa-4-audios-mp3_rf_64662071_1.html</link>
 			<enclosure url="https://www.ivoox.com/programa-4_mf_64662071_feed_1.mp3" type="audio/mpeg" length="28337248"/>
