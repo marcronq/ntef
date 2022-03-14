@@ -1,27 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<itunes:author>
-			<![CDATA[NTEF]]>
+			NTEF
 		</itunes:author>
 		<title>
-			<![CDATA[No todo es follar]]>
+			No todo es follar
 		</title>
 		<itunes:owner>
 			<itunes:email> notodoesfollar@gmail.com </itunes:email>
 		</itunes:owner>
 		<link>https://www.ivoox.com/podcast-no-todo-es-follar_sq_f11069693_1.html</link>
 		<description>
-			<![CDATA[Aquesta és una descripció del programa. Aquí es diu què és el què fem i què pots esperar a l'escoltar aquest programa. També es fa alguna petita broma ja que intentem fer humor sempre que podem o en sabem. Ara ens posem més seriosos perquè realment ens fa il·lusió fer un podcast i volem que surti la cosa bé i no se'ns titlli (s'escriu així titlli? sembla extrany amb tantes "i" oi?) de superficials. Acabem amb alguna conclusió final a un terme mig entre canallita i intelectual.]]>
+			Aquesta és una descripció del programa. Aquí es diu què és el què fem i què pots esperar a l'escoltar aquest programa. També es fa alguna petita broma ja que intentem fer humor sempre que podem o en sabem. Ara ens posem més seriosos perquè realment ens fa il·lusió fer un podcast i volem que surti la cosa bé i no se'ns titlli (s'escriu així titlli? sembla extrany amb tantes "i" oi?) de superficials. Acabem amb alguna conclusió final a un terme mig entre canallita i intelectual.
 		</description>
 		<language>ca</language>
 		<generator>iVoox</generator>
 		<image>
 			<url>https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815</url>
 			<title>
-				<![CDATA[No todo es follar]]>
+				No todo es follar
 			</title>
 			<link>https://www.ivoox.com/podcast-no-todo-es-follar_sq_f11069693_1.html</link>
 		</image>
@@ -35,7 +32,7 @@
 			<link>
 				https://www.ivoox.com/2x05-red-flags-gamers-i-grupo-audios-mp3_rf_82480281_1.html
 			</link>
-			<enclosure url="https://www.ivoox.com/2x05-red-flags-gamers-i-grupo_mf_82480281_feed_1.mp3" type="audio/mpeg" length="22893572"/>
+			<enclosure url="https://www.ivoox.com/2x05-red-flags-gamers-i-grupo_mf_82480281_feed_1.mp3" type="audio/mpeg" length="22893572" />
 			<description>
 				En aquest fantàstic episodi podeu deleitar-vos amb una llista tendenciosa de red flags que ens porta el Marc, el Gerard ens mostra la seva vivència titulada 21 dias siendo gamer. Finalment els analistes ens porten periodisme de qualitat en forma d'investigació sobre '"El grupo".
 			</description>
@@ -43,14 +40,14 @@
 			<itunes:duration>47:41</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/82480281</guid>
-			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
 		<item>
 			<title>2x04 - La Sagrada Familia i Guinea Ecuatorial</title>
 			<link>
 				https://www.ivoox.com/2x04-la-sagrada-familia-i-guinea-ecuatorial-audios-mp3_rf_80516141_1.html
 			</link>
-			<enclosure url="https://www.ivoox.com/2x04-la-sagrada-familia-i-guinea-ecuatorial_mf_80516141_feed_1.mp3" type="audio/mpeg" length="18180850"/>
+			<enclosure url="https://www.ivoox.com/2x04-la-sagrada-familia-i-guinea-ecuatorial_mf_80516141_feed_1.mp3" type="audio/mpeg" length="18180850" />
 			<description>
 				En aquest episodi veurem que hi ha de nou a la Sagrada familia i com l'efecte de la campinya creua barreres. A part parlarem de la antiga colonia espanyola Guinea Ecuatorial i del seu president, el golfo de Guinea. Puja en aquest viatje per les ones que et farà riure i ser una persona enterada entre la teva gent
 			</description>
@@ -58,14 +55,14 @@
 			<itunes:duration>37:52</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/80516141</guid>
-			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
 		<item>
 			<title>2x03 - Una mujer!</title>
 			<link>
 				https://www.ivoox.com/2x03-mujer-audios-mp3_rf_79758397_1.html
 			</link>
-			<enclosure url="https://www.ivoox.com/2x03-mujer_mf_79758397_feed_1.mp3" type="audio/mpeg" length="21137866"/>
+			<enclosure url="https://www.ivoox.com/2x03-mujer_mf_79758397_feed_1.mp3" type="audio/mpeg" length="21137866" />
 			<description>
 				En aquest tercer episodi notareu que ens estem profesionalitzant. Una periodista ens visita i ens fot canya bien fresquita. Un concurs de criptomonedes, els respalls de dents i Bulgaria són els temes escollits en aquesta ocasió. Per primera vegada el públic s'entrega de manera molt dura durant la gravació. GAS
 			</description>
@@ -73,14 +70,14 @@
 			<itunes:duration>44:02</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/79758397</guid>
-			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
 		<item>
 			<title>2x02 - La son</title>
 			<link>
 				https://www.ivoox.com/2x02-la-son-audios-mp3_rf_78747121_1.html
 			</link>
-			<enclosure url="https://www.ivoox.com/2x02-la-son_mf_78747121_feed_1.mp3" type="audio/mpeg" length="22521102"/>
+			<enclosure url="https://www.ivoox.com/2x02-la-son_mf_78747121_feed_1.mp3" type="audio/mpeg" length="22521102" />
 			<description>
 			En aquest segon programa parlem de el son tot referint-nos a la son, així d'intel·lectuals som. Un viatje pel món oníric regat per herbes eivissenques on descobrirem com en Gerard és tot un expert en el tema i ens fa una masterclass sobre somnis lúcids. Esperem que no un dormiu!
 			</description>
@@ -88,15 +85,14 @@
 			<itunes:duration>46:55</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/78747121</guid>
-			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
-
 		<item>
 			<title>2x01 - Les barbacoes</title>
 			<link>
 				https://www.ivoox.com/2x01-les-barbacoes-audios-mp3_rf_77684623_1.html
 			</link>
-			<enclosure url="https://www.ivoox.com/2x01-les-barbacoes_mf_77684623_feed_1.mp3" type="audio/mpeg" length="26062673"/>
+			<enclosure url="https://www.ivoox.com/2x01-les-barbacoes_mf_77684623_feed_1.mp3" type="audio/mpeg" length="26062673" />
 			<description>
 			Estrenem temporada parlant del tema que Catalunya necessita: Les barbacoes. L'equip al complet de NTEF s'ha desplaçat a Eivissa per poder seguir creant contingut de qualitat i aquest és el resultat.
 			</description>
@@ -104,9 +100,8 @@
 			<itunes:duration>54:17</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/77684623</guid>
-			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
-
 		<item>
 			<title>
 				Programa especial amb El Pony Pisador
@@ -114,7 +109,7 @@
 			<link>
 				https://www.ivoox.com/programa-especial-amb-el-pony-pisador-audios-mp3_rf_65458814_1.html
 			</link>
-			<enclosure url="https://www.ivoox.com/programa-especial-amb-el-pony-pisador_mf_65458814_feed_1.mp3" type="audio/mpeg" length="27638743"/>
+			<enclosure url="https://www.ivoox.com/programa-especial-amb-el-pony-pisador_mf_65458814_feed_1.mp3" type="audio/mpeg" length="27638743" />
 			<description>
 			En aquest programa especial hem tingut l'honor de poder fer una cervesa i xerrar amb l'Adrià Vila i el Guillem Codern dels grans, enormes, màquines i cracks El Pony Pisador presentant el seu últim disc Jaja Salu2, escolteu-los ara mateix si encara no ho heu fet. Un autèntic plaer pels sentits. L'ocasió ens ha permès parlar de la creació del disc i del moment del grup. S'han arrancat i els hem pogut escoltar fent cant gutural i yodeling, així com parlar de concursos guanyats i perduts i molta cervesa.
 			</description>
@@ -122,52 +117,65 @@
 			<itunes:duration>57:34</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/65458814</guid>
-			<itunes:image href="https://static-2.ivoox.com/audios/7/0/4/9/5121613419407_XXL.jpg"/>
+			<itunes:image href="https://static-2.ivoox.com/audios/7/0/4/9/5121613419407_XXL.jpg" />
 		</item>
 		<item>
 			<title>
-				<![CDATA[1x03 - Anàlisi]]>
+				1x03 - Anàlisi
 			</title>
 			<link>https://www.ivoox.com/programa-6-audios-mp3_rf_63879078_1.html</link>
-			<enclosure url="https://www.ivoox.com/programa-6_md_63879078_wp_1.mp3" type="audio/mpeg"  length="32883774"/>
+			<enclosure url="https://www.ivoox.com/programa-6_md_63879078_wp_1.mp3" type="audio/mpeg" length="32883774" />
 			<description>
-				<![CDATA[En aquest episodi intercanviem el Gerard per l'Oriol. Parlem de l'illa de Sentinel del Nord i què us podeu trobar si voleu fer-hi turisme. Coneixerem com li va el business a l'empresa de mitjons Klancetines i finalment reflexionarem tots plegats amb una sessió intensa d'anàlisi personal.]]>
+				En aquest episodi intercanviem el Gerard per l'Oriol. Parlem de l'illa de Sentinel del Nord i què us podeu trobar si voleu fer-hi turisme. Coneixerem com li va el business a l'empresa de mitjons Klancetines i finalment reflexionarem tots plegats amb una sessió intensa d'anàlisi personal.
 			</description>
 			<pubDate>Wed, 13 Jan 2021 17:35:07 +0100</pubDate>
 			<itunes:duration>01:08:30</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/63879078</guid>
-			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
 		<item>
 			<title>
-				<![CDATA[1x02 - Un vermut]]>
+				1x02 - Un vermut
 			</title>
 			<link>https://www.ivoox.com/programa-5-audios-mp3_rf_62275855_1.html</link>
-			<enclosure url="https://www.ivoox.com/programa-5_mf_62275855_feed_1.mp3" type="audio/mpeg"  length="23430600"/>
+			<enclosure url="https://www.ivoox.com/programa-5_mf_62275855_feed_1.mp3" type="audio/mpeg" length="23430600" />
 			<description>
-				<![CDATA[En aquest episodi podreu acompanyar-nos a fer el vermut i xerrar de les nostres qualitats, defectes i noves masculinitats. També escoltarem un temica una mica escurçat per allò del copyright, ens assabentem de com li va el business a Bernat Hidalgo amb Bdelleure i llegim una entrevista curiosa a Paulo Coelho!]]>
+				En aquest episodi podreu acompanyar-nos a fer el vermut i xerrar de les nostres qualitats, defectes i noves masculinitats. També escoltarem un temica una mica escurçat per allò del copyright, ens assabentem de com li va el business a Bernat Hidalgo amb Bdelleure i llegim una entrevista curiosa a Paulo Coelho!
 			</description>
 			<pubDate>Sun, 13 Dec 2020 19:36:07 +0100</pubDate>
 			<itunes:duration>48:48</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/62275855</guid>
-			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
 		<item>
 			<title>
-				<![CDATA[1x01 - Comencem]]>
+				1x01 - Comencem
 			</title>
 			<link>https://www.ivoox.com/programa-4-audios-mp3_rf_64662071_1.html</link>
-			<enclosure url="https://www.ivoox.com/programa-4_mf_64662071_feed_1.mp3" type="audio/mpeg" length="28337248"/>
+			<enclosure url="https://www.ivoox.com/programa-4_mf_64662071_feed_1.mp3" type="audio/mpeg" length="28337248" />
 			<description>
-				<![CDATA[ En aquest episodi podrem coneixer una mica millor els integrants del podcast. A continuació comentarem una noticia d'una revista local amb reminiscències del passat que ens porta el Marc. Podrem escoltar un tema que ens porta el punxa-discos Santiago i trucarem al nostre company Oriol. Finalment el Gerard ens explicarà coses de caire rural de la seva vida i feina. ]]>
+				 En aquest episodi podrem coneixer una mica millor els integrants del podcast. A continuació comentarem una noticia d'una revista local amb reminiscències del passat que ens porta el Marc. Podrem escoltar un tema que ens porta el punxa-discos Santiago i trucarem al nostre company Oriol. Finalment el Gerard ens explicarà coses de caire rural de la seva vida i feina. 
 			</description>
 			<pubDate>Sat, 14 Nov 2020 19:06:25 +0100</pubDate>
 			<itunes:duration>59:02</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://www.ivoox.com/64662071</guid>
-			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815"/>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
+		</item>
+		<item>
+			<title>2x06 - Adulthood</title>
+			<link>https://www.ivoox.com/2x06-adulthood-audios-mp3_rf_83476838_1.html</link>
+			<enclosure url="https://www.ivoox.com/2x06-adulthood_md_83476838_wp_1.mp3" type="audio/mpeg" length="21216566" />
+			<description>Avui tenim ressaca. I es nota. Aquest fenòmen, bonic a la seva manera, ens ha reunit un cop més i les sinèrgies i el Solan de Cabras ens han dut a parlar de què és i què no és fer-se adult. En aquest episodi parlem de quines mentides té associades l'adultesa.
+
+El nostre capità torna a ser el Santi i escoltarem també les últimes noticies del nostre enviat especial a la frontera de Polònia i Ucraïna, Marc Solanes.</description>
+			<pubDate>Mon, 14 Mar 2022 20:24:24 +0100</pubDate>
+			<itunes:duration>44:12</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/83476838</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
 	</channel>
 </rss>
