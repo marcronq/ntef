@@ -177,5 +177,27 @@ El nostre capità torna a ser el Santi i escoltarem també les últimes noticies
 			<guid>https://www.ivoox.com/83476838</guid>
 			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
+		<item>
+			<title>2x08 - Bodas, bautizos, comuniones i Patum</title>
+			<link>https://www.ivoox.com/2x08-bodas-bautizos-comuniones-patum-audios-mp3_rf_92160830_1.html</link>
+			<enclosure url="https://www.ivoox.com/2x08-bodas-bautizos-comuniones-patum_md_92160830_wp_1.mp3" type="audio/mpeg" length="23214750" />
+			<description>Poc més a dir, aquest episodi que, en efecte, es peta el 07 acomiadem la temporada i donem esperances a una tercera temporada. Amb canvis pel que comporta al futur de NTEF. En Santi ens parla del seu nou business i en Quer a mode de concurs demostra que ja és un més del Berguedà després d'haver-se empadronat. You will alays be a PixaPins</description>
+			<pubDate>Tue, 03 Jan 2023 20:57:50 +0100</pubDate>
+			<itunes:duration>48:21</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/92160830</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
+		</item>
+		<item>
+			<title>3x01 - Convidades</title>
+			<link>https://www.ivoox.com/3x01-convidades-audios-mp3_rf_100625511_1.html</link>
+			<enclosure url="https://www.ivoox.com/3x01-convidades_md_100625511_wp_1.mp3" type="audio/mpeg" length="16594277" />
+			<description>En aquest episodi estrenem temporada amb moltes novetats. No direm quines i així heu d'escoltar el programa. L'Oriol te moltes idees veurem que en pensa la resta i amb tanta novetat la cosa es desmadra. Esperem que us agradi i que els minuts al cotxe anant al curro i pensant que merdes faig en aquest embús siguin més lleugers.</description>
+			<pubDate>Tue, 03 Jan 2023 20:58:03 +0100</pubDate>
+			<itunes:duration>34:34</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/100625511</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
+		</item>
 	</channel>
 </rss>
