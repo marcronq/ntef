@@ -199,5 +199,16 @@ El nostre capità torna a ser el Santi i escoltarem també les últimes noticies
 			<guid>https://www.ivoox.com/100625511</guid>
 			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
+		<item>
+			<title>3x02 - Com robar, The Game i el suïcidi</title>
+			<link>https://www.ivoox.com/3x02-com-robar-the-game-i-el-audios-mp3_rf_101074834_1.html</link>
+			<enclosure url="https://www.ivoox.com/3x02-com-robar-the-game-i-el_md_101074834_wp_1.mp3" type="audio/mpeg" length="21304084" />
+			<description>Aquest episodi de la segona temporada es posa calent, intentarem ajudar amb el cabàs de la compra, en Gerdard ens porta un joc i el Gabs, al que ja vau escoltar en l'últim programa ens porta els seus descartes, les idees que ja no li serveixen ens les comparteix com si això fos un zoco. No faltarà la píndola de l'Enric i en Solanes que es comunica de resaca de Rakki.</description>
+			<pubDate>Sun, 08 Jan 2023 19:43:32 +0100</pubDate>
+			<itunes:duration>44:22</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/101074834</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
+		</item>
 	</channel>
 </rss>
