@@ -210,5 +210,16 @@ El nostre capità torna a ser el Santi i escoltarem també les últimes noticies
 			<guid>https://www.ivoox.com/101074834</guid>
 			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
+		<item>
+			<title>3x03 - Ningú al volant</title>
+			<link>https://www.ivoox.com/3x03-ningu-al-volant-audios-mp3_rf_102466966_1.html</link>
+			<enclosure url="https://www.ivoox.com/3x03-ningu-al-volant_md_102466966_wp_1.mp3" type="audio/mpeg" length="47076826" />
+			<description>En aquest episodi no hi falta ningú. Potser precisament per això vam allargar-nos una mica més del compte. Sumat a uns petits problemes tècnics derivats de fer anar un equip d'altíssima gamma fa que aquest programa sigui especialment especial. Parlem d'actualitat nadalenca, Paul Watson, recomanem llibres que no ens hem llegit, fem una subhasta de merda i l'Enric posa la cirereta amb la seva pastilla.</description>
+			<pubDate>Thu, 02 Feb 2023 14:05:10 +0100</pubDate>
+			<itunes:duration>1:38:4</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/102466966</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
+		</item>
 	</channel>
 </rss>
