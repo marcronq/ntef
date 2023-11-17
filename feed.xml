@@ -221,5 +221,16 @@ El nostre capità torna a ser el Santi i escoltarem també les últimes noticies
 			<guid>https://www.ivoox.com/102466966</guid>
 			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
+		<item>
+			<title>4x01 - No estaban muertos</title>
+			<link>https://www.ivoox.com/4x01-no-estaban-muertos-audios-mp3_rf_119660616_1.html</link>
+			<enclosure url="https://www.ivoox.com/4x01-no-estaban-muertos_md_119660616_wp_1.mp3" type="audio/mpeg" length="42117532" />
+			<description>Ens tornem a reunir. De què parlem? Hauràs d'escoltar-ho per descobrir-ho perquè ja fa uns dies que ho vam gravar i la veritat és que jo ara no ho recordo.</description>
+			<pubDate>Fri, 17 Nov 2023 19:52:16 +0100</pubDate>
+			<itunes:duration>1:27:44</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/119660616</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
+		</item>
 	</channel>
 </rss>
