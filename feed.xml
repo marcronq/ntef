@@ -243,5 +243,16 @@ El nostre capità torna a ser el Santi i escoltarem també les últimes noticies
 			<guid>https://www.ivoox.com/119660706</guid>
 			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
+		<item>
+			<title>4x03 - Reencuentro</title>
+			<link>https://www.ivoox.com/4x03-reencuentro-audios-mp3_rf_125989916_1.html</link>
+			<enclosure url="https://www.ivoox.com/4x03-reencuentro_md_125989916_wp_1.mp3" type="audio/mpeg" length="74736325" />
+			<description>Aquest episodi es narra des del "Narcopiso", un lloc amb més fantasia al lavabo que al circ d'Ángel Cristo. Pastilles triples, batejades com "tripis" de l'Enric, inquilí del Narcopiso. Seccions que de cop es tornen referència i pam l'Uri ens fa un dietari com els del Quer, copiats òbviament d'un altre programa de referència però tot més canalla, més de Sarda.</description>
+			<pubDate>Mon, 18 Mar 2024 10:02:29 +0100</pubDate>
+			<itunes:duration>1:17:50</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/125989916</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
+		</item>
 	</channel>
 </rss>
