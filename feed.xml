@@ -254,5 +254,16 @@ El nostre capità torna a ser el Santi i escoltarem també les últimes noticies
 			<guid>https://www.ivoox.com/125989916</guid>
 			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
 		</item>
+		<item>
+			<title>5x01 - Javier Milei en bicicleta</title>
+			<link>https://www.ivoox.com/5x01-javier-milei-bicicleta-audios-mp3_rf_137440159_1.html</link>
+			<enclosure url="https://www.ivoox.com/5x01-javier-milei-bicicleta_md_137440159_wp_1.mp3" type="audio/mpeg" length="46488631" />
+			<description>Tornem a ser aquí perquè mai haviem marxat. Aquest episodi és el primer de la cinquena temporada, en ell explorem temes interessants pels trentanyerus com el ioga, l'esport i els personatges de l'any.</description>
+			<pubDate>Fri, 03 Jan 2025 17:29:54 +0100</pubDate>
+			<itunes:duration>1:36:51</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/137440159</guid>
+			<itunes:image href="https://static-1.ivoox.com/canales/8/3/7/6/5401635886738_XXL.jpg?ts=1635886815" />
+		</item>
 	</channel>
 </rss>
